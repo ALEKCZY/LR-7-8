@@ -1,0 +1,5 @@
+s= input()
+print('Кол-во +:', s.count("+"))
+print('Кол-во +0:', s.count('+0'))
+print('Кол-во -:', s.count("-"))
+print('Кол-во -0:', s.count("-0"))
